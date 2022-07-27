@@ -5,7 +5,18 @@ Este repositorio contiene dos archivos html para contruir el sitito web del rest
 ## Como correr  este codigo
 1. Bajarse este repositorio
 2. Instalar el servidor Apache localmente 
-3. En la carpeta proyecto-web/ abrir el archivo index.html
+3. En la carpeta `proyecto-web/` abrir el archivo `index.html`
+
+## Codigo ejemplo
+
+Por favor seguir el siguiente formato:
+
+```
+<html>
+<head></head>
+</html>
+```
 
 ## Contacto
 Para cualquier pregunta, contactanos a desarrolleweb@miempresa.com
+
